@@ -16,6 +16,7 @@ JoyCrew는 긍정적이고 몰입도 높은 업무 환경 조성을 목표로 �
   - [우리의 핵심 가치](#우리의-핵심-가치)
 - [문제 및 해결책](#문제-및-해결책--problem-and-solution)
 - [주요 기능](#주요-기능--features)
+- [기능 명세서](#기능-명세서--feature-specifications)
 - [기술 스택](#기술-스택--tech-stack)
 - [프로젝트 팀](#프로젝트-팀--project-team)
 - [문의하기](#문의하기--contact)
@@ -94,6 +95,14 @@ JoyCrew는 관리자와 일반 직원 모두에게 최적화된 기능을 제공
     * 포인트 교환 가능한 다양한 리워드 상품 목록 관리 (추가/수정/삭제)
 3.  **자동 보상 지급:**
     * 설정된 이벤트에 따른 자동 포인트 지급 및 알림
+
+---
+
+## 기능 명세서 | Feature Specifications
+
+JoyCrew의 상세 기능 명세는 아래 링크에서 확인하실 수 있습니다.
+
+[**기능 명세서 바로가기**](https://delightful-spaghetti-162.notion.site/2314c68b03a580c58693f5e76a4fe96e)
 
 ---
 
